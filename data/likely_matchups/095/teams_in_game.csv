@@ -1,0 +1,92 @@
+game,team_a,team_b,probability,date,city,country,stage
+73,Canada,South Africa,1.0,,,,Round of 32
+74,Germany,Paraguay,1.0,,,,Round of 32
+75,Morocco,Netherlands,1.0,,,,Round of 32
+76,Brazil,Japan,1.0,,,,Round of 32
+77,France,Sweden,1.0,,,,Round of 32
+78,Ivory Coast,Norway,1.0,,,,Round of 32
+79,Ecuador,Mexico,1.0,,,,Round of 32
+80,Congo DR,England,1.0,,,,Round of 32
+81,Bosnia-Herzegovina,United States,1.0,,,,Round of 32
+82,Belgium,Senegal,1.0,,,,Round of 32
+83,Croatia,Portugal,1.0,,,,Round of 32
+84,Austria,Spain,1.0,,,,Round of 32
+85,Algeria,Switzerland,1.0,,,,Round of 32
+86,Argentina,Cape Verde,1.0,,,,Round of 32
+87,Colombia,Ghana,1.0,,,,Round of 32
+88,Australia,Egypt,1.0,,,,Round of 32
+89,France,Paraguay,1.0,,,,Round of 16
+90,Canada,Morocco,1.0,,,,Round of 16
+91,Brazil,Norway,1.0,,,,Round of 16
+92,England,Mexico,1.0,,,,Round of 16
+93,Portugal,Spain,1.0,,,,Round of 16
+94,Belgium,United States,1.0,,,,Round of 16
+95,Argentina,Egypt,1.0,2026-07-07,"Atlanta, Georgia",USA,Round of 16
+96,Colombia,Switzerland,1.0,2026-07-07,Vancouver,Canada,Round of 16
+97,France,Morocco,1.0,2026-07-09,"Foxborough, Massachusetts",USA,Quarter-final
+98,Belgium,Spain,1.0,2026-07-10,"Inglewood, California",USA,Quarter-final
+99,England,Norway,1.0,2026-07-11,"Miami Gardens, Florida",USA,Quarter-final
+100,Argentina,Colombia,0.5078,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,Argentina,Switzerland,0.2712,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,Colombia,Egypt,0.1441,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,Egypt,Switzerland,0.077,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+101,France,Spain,0.4259,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Belgium,France,0.2633,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Morocco,Spain,0.1921,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Belgium,Morocco,0.1187,2026-07-14,"Arlington, Texas",USA,Semi-final
+102,Argentina,England,0.325,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Colombia,England,0.1958,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Argentina,Norway,0.1693,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Colombia,Norway,0.102,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,England,Switzerland,0.0828,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Egypt,England,0.0538,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Norway,Switzerland,0.0431,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Egypt,Norway,0.028,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+103,England,Spain,0.0846,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Argentina,Spain,0.0767,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,England,France,0.0704,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Argentina,France,0.0638,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Belgium,England,0.0619,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Norway,Spain,0.061,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Argentina,Belgium,0.0561,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,France,Norway,0.0508,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Colombia,Spain,0.0501,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,England,Morocco,0.0499,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Argentina,Morocco,0.0452,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Belgium,Norway,0.0446,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Colombia,France,0.0418,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Belgium,Colombia,0.0367,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Morocco,Norway,0.036,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Colombia,Morocco,0.0296,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Spain,Switzerland,0.0259,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,France,Switzerland,0.0216,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Belgium,Switzerland,0.019,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Egypt,Spain,0.0187,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Egypt,France,0.0156,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Morocco,Switzerland,0.0153,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Belgium,Egypt,0.0137,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Egypt,Morocco,0.011,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+104,England,France,0.1661,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,England,Spain,0.1176,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Argentina,France,0.1074,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Argentina,Spain,0.076,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,France,Norway,0.0639,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Colombia,France,0.0594,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Belgium,England,0.0586,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,England,Morocco,0.0484,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Norway,Spain,0.0452,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Colombia,Spain,0.042,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Argentina,Belgium,0.0379,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Argentina,Morocco,0.0312,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Belgium,Norway,0.0225,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Belgium,Colombia,0.021,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,France,Switzerland,0.0188,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Morocco,Norway,0.0186,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Colombia,Morocco,0.0173,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Spain,Switzerland,0.0133,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Egypt,France,0.0097,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Egypt,Spain,0.0069,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Belgium,Switzerland,0.0066,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Morocco,Switzerland,0.0055,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Belgium,Egypt,0.0034,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Egypt,Morocco,0.0028,2026-07-19,"East Rutherford, New Jersey",USA,Final
