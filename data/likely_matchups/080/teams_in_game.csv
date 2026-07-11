@@ -1,11 +1,4 @@
 game,team_a,team_b,probability,date,city,country,stage
-73,Canada,South Africa,1.0,,,,Round of 32
-74,Germany,Paraguay,1.0,,,,Round of 32
-75,Morocco,Netherlands,1.0,,,,Round of 32
-76,Brazil,Japan,1.0,,,,Round of 32
-77,France,Sweden,1.0,,,,Round of 32
-78,Ivory Coast,Norway,1.0,,,,Round of 32
-79,Ecuador,Mexico,1.0,,,,Round of 32
 80,Congo DR,England,1.0,2026-07-01,"Atlanta, Georgia",USA,Round of 32
 81,Bosnia-Herzegovina,United States,1.0,2026-07-02,"Santa Clara, California",USA,Round of 32
 82,Belgium,Senegal,1.0,2026-07-01,"Seattle, Washington",USA,Round of 32
