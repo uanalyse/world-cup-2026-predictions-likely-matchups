@@ -1,0 +1,11 @@
+game,team_a,team_b,probability,date,city,country,stage
+101,France,Spain,1.0,2026-07-14,"Arlington, Texas",USA,Semi-final
+102,Argentina,England,1.0,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+103,Argentina,Spain,0.297,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,England,Spain,0.2763,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Argentina,France,0.2211,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,England,France,0.2056,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+104,England,France,0.297,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Argentina,France,0.2763,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,England,Spain,0.2211,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Argentina,Spain,0.2056,2026-07-19,"East Rutherford, New Jersey",USA,Final
