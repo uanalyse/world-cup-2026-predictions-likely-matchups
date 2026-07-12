@@ -1,0 +1,17 @@
+game,team_a,team_b,probability,date,city,country,stage
+100,Argentina,Switzerland,1.0,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+101,France,Spain,1.0,2026-07-14,"Arlington, Texas",USA,Semi-final
+102,Argentina,England,0.7071,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,England,Switzerland,0.2929,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+103,England,Spain,0.2562,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Argentina,Spain,0.1977,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,England,France,0.1907,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Argentina,France,0.1471,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Spain,Switzerland,0.1195,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,France,Switzerland,0.0889,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+104,England,France,0.3171,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,England,Spain,0.236,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Argentina,France,0.2077,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Argentina,Spain,0.1546,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,France,Switzerland,0.0485,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Spain,Switzerland,0.0361,2026-07-19,"East Rutherford, New Jersey",USA,Final

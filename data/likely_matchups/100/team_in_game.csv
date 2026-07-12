@@ -1,0 +1,18 @@
+game,team,probability,date,city,country,stage
+100,Argentina,1.0,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,Switzerland,1.0,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+101,France,1.0,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Spain,1.0,2026-07-14,"Arlington, Texas",USA,Semi-final
+102,England,1.0,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Argentina,0.7071,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Switzerland,0.2929,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+103,Spain,0.5733,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,England,0.4469,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,France,0.4267,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Argentina,0.3448,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Switzerland,0.2084,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+104,France,0.5733,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,England,0.5531,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Spain,0.4267,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Argentina,0.3623,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Switzerland,0.0846,2026-07-19,"East Rutherford, New Jersey",USA,Final
