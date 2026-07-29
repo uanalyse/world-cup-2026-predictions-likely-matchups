@@ -1,0 +1,309 @@
+game,team,probability,date,city,country,stage
+73,Canada,1.0,2026-06-28,"Inglewood, California",USA,Round of 32
+73,South Africa,1.0,2026-06-28,"Inglewood, California",USA,Round of 32
+74,Germany,1.0,2026-06-29,"Foxborough, Massachusetts",USA,Round of 32
+74,Paraguay,1.0,2026-06-29,"Foxborough, Massachusetts",USA,Round of 32
+75,Morocco,1.0,2026-06-30,Guadalupe,Mexico,Round of 32
+75,Netherlands,1.0,2026-06-30,Guadalupe,Mexico,Round of 32
+76,Brazil,1.0,2026-06-29,"Houston, Texas",USA,Round of 32
+76,Japan,1.0,2026-06-29,"Houston, Texas",USA,Round of 32
+77,France,1.0,2026-06-30,"East Rutherford, New Jersey",USA,Round of 32
+77,Sweden,1.0,2026-06-30,"East Rutherford, New Jersey",USA,Round of 32
+78,Ivory Coast,1.0,2026-06-30,"Arlington, Texas",USA,Round of 32
+78,Norway,1.0,2026-06-30,"Arlington, Texas",USA,Round of 32
+79,Mexico,1.0,2026-07-01,Mexico City,Mexico,Round of 32
+79,Ecuador,0.9624,2026-07-01,Mexico City,Mexico,Round of 32
+79,Scotland,0.0376,2026-07-01,Mexico City,Mexico,Round of 32
+80,England,0.7481,2026-07-01,"Atlanta, Georgia",USA,Round of 32
+80,Senegal,0.6013,2026-07-01,"Atlanta, Georgia",USA,Round of 32
+80,Congo DR,0.3551,2026-07-01,"Atlanta, Georgia",USA,Round of 32
+80,Croatia,0.1778,2026-07-01,"Atlanta, Georgia",USA,Round of 32
+80,Ghana,0.0741,2026-07-01,"Atlanta, Georgia",USA,Round of 32
+80,Algeria,0.0208,2026-07-01,"Atlanta, Georgia",USA,Round of 32
+80,Austria,0.017,2026-07-01,"Atlanta, Georgia",USA,Round of 32
+80,Uzbekistan,0.0034,2026-07-01,"Atlanta, Georgia",USA,Round of 32
+80,Portugal,0.0024,2026-07-01,"Atlanta, Georgia",USA,Round of 32
+81,Bosnia-Herzegovina,1.0,2026-07-02,"Santa Clara, California",USA,Round of 32
+81,United States,1.0,2026-07-02,"Santa Clara, California",USA,Round of 32
+82,South Korea,0.5466,2026-07-01,"Seattle, Washington",USA,Round of 32
+82,Egypt,0.4761,2026-07-01,"Seattle, Washington",USA,Round of 32
+82,Belgium,0.3142,2026-07-01,"Seattle, Washington",USA,Round of 32
+82,Senegal,0.2256,2026-07-01,"Seattle, Washington",USA,Round of 32
+82,Iran,0.2097,2026-07-01,"Seattle, Washington",USA,Round of 32
+82,Algeria,0.1428,2026-07-01,"Seattle, Washington",USA,Round of 32
+82,Austria,0.085,2026-07-01,"Seattle, Washington",USA,Round of 32
+83,Portugal,0.6047,2026-07-02,Toronto,Canada,Round of 32
+83,Croatia,0.4406,2026-07-02,Toronto,Canada,Round of 32
+83,Colombia,0.3929,2026-07-02,Toronto,Canada,Round of 32
+83,Ghana,0.3098,2026-07-02,Toronto,Canada,Round of 32
+83,England,0.2496,2026-07-02,Toronto,Canada,Round of 32
+83,Congo DR,0.0024,2026-07-02,Toronto,Canada,Round of 32
+84,Spain,1.0,2026-07-02,"Inglewood, California",USA,Round of 32
+84,Austria,0.6681,2026-07-02,"Inglewood, California",USA,Round of 32
+84,Algeria,0.3319,2026-07-02,"Inglewood, California",USA,Round of 32
+85,Switzerland,1.0,2026-07-03,Vancouver,Canada,Round of 32
+85,Egypt,0.3122,2026-07-03,Vancouver,Canada,Round of 32
+85,Iran,0.243,2026-07-03,Vancouver,Canada,Round of 32
+85,Algeria,0.1492,2026-07-03,Vancouver,Canada,Round of 32
+85,Austria,0.0828,2026-07-03,Vancouver,Canada,Round of 32
+85,Belgium,0.0822,2026-07-03,Vancouver,Canada,Round of 32
+85,Senegal,0.0574,2026-07-03,Vancouver,Canada,Round of 32
+85,New Zealand,0.0381,2026-07-03,Vancouver,Canada,Round of 32
+85,Ecuador,0.0351,2026-07-03,Vancouver,Canada,Round of 32
+86,Argentina,1.0,2026-07-03,"Miami Gardens, Florida",USA,Round of 32
+86,Cape Verde,1.0,2026-07-03,"Miami Gardens, Florida",USA,Round of 32
+87,Ghana,0.6161,2026-07-04,"Kansas City, Missouri",USA,Round of 32
+87,Colombia,0.6071,2026-07-04,"Kansas City, Missouri",USA,Round of 32
+87,Portugal,0.3929,2026-07-04,"Kansas City, Missouri",USA,Round of 32
+87,Croatia,0.2912,2026-07-04,"Kansas City, Missouri",USA,Round of 32
+87,Senegal,0.0879,2026-07-04,"Kansas City, Missouri",USA,Round of 32
+87,Ecuador,0.0025,2026-07-04,"Kansas City, Missouri",USA,Round of 32
+87,England,0.0023,2026-07-04,"Kansas City, Missouri",USA,Round of 32
+88,Australia,1.0,2026-07-03,"Arlington, Texas",USA,Round of 32
+88,Belgium,0.5035,2026-07-03,"Arlington, Texas",USA,Round of 32
+88,Iran,0.2296,2026-07-03,"Arlington, Texas",USA,Round of 32
+88,Egypt,0.2117,2026-07-03,"Arlington, Texas",USA,Round of 32
+88,New Zealand,0.0552,2026-07-03,"Arlington, Texas",USA,Round of 32
+89,France,0.7685,2026-07-04,"Philadelphia, Pennsylvania",USA,Round of 16
+89,Germany,0.6973,2026-07-04,"Philadelphia, Pennsylvania",USA,Round of 16
+89,Paraguay,0.3027,2026-07-04,"Philadelphia, Pennsylvania",USA,Round of 16
+89,Sweden,0.2315,2026-07-04,"Philadelphia, Pennsylvania",USA,Round of 16
+90,Netherlands,0.5721,2026-07-04,"Houston, Texas",USA,Round of 16
+90,Canada,0.567,2026-07-04,"Houston, Texas",USA,Round of 16
+90,South Africa,0.433,2026-07-04,"Houston, Texas",USA,Round of 16
+90,Morocco,0.4279,2026-07-04,"Houston, Texas",USA,Round of 16
+91,Brazil,0.6367,2026-07-05,"East Rutherford, New Jersey",USA,Round of 16
+91,Norway,0.5557,2026-07-05,"East Rutherford, New Jersey",USA,Round of 16
+91,Ivory Coast,0.4443,2026-07-05,"East Rutherford, New Jersey",USA,Round of 16
+91,Japan,0.3633,2026-07-05,"East Rutherford, New Jersey",USA,Round of 16
+92,Mexico,0.5654,2026-07-06,Mexico City,Mexico,Round of 16
+92,England,0.539,2026-07-06,Mexico City,Mexico,Round of 16
+92,Ecuador,0.4259,2026-07-06,Mexico City,Mexico,Round of 16
+92,Senegal,0.2259,2026-07-06,Mexico City,Mexico,Round of 16
+92,Croatia,0.1061,2026-07-06,Mexico City,Mexico,Round of 16
+92,Congo DR,0.0834,2026-07-06,Mexico City,Mexico,Round of 16
+92,Ghana,0.0281,2026-07-06,Mexico City,Mexico,Round of 16
+92,Algeria,0.0087,2026-07-06,Mexico City,Mexico,Round of 16
+92,Scotland,0.0087,2026-07-06,Mexico City,Mexico,Round of 16
+92,Austria,0.0066,2026-07-06,Mexico City,Mexico,Round of 16
+92,Portugal,0.0012,2026-07-06,Mexico City,Mexico,Round of 16
+92,Uzbekistan,0.0009,2026-07-06,Mexico City,Mexico,Round of 16
+93,Spain,0.7466,2026-07-06,"Arlington, Texas",USA,Round of 16
+93,Portugal,0.3856,2026-07-06,"Arlington, Texas",USA,Round of 16
+93,Colombia,0.2409,2026-07-06,"Arlington, Texas",USA,Round of 16
+93,Croatia,0.1683,2026-07-06,"Arlington, Texas",USA,Round of 16
+93,Austria,0.1597,2026-07-06,"Arlington, Texas",USA,Round of 16
+93,England,0.143,2026-07-06,"Arlington, Texas",USA,Round of 16
+93,Algeria,0.0937,2026-07-06,"Arlington, Texas",USA,Round of 16
+93,Ghana,0.0614,2026-07-06,"Arlington, Texas",USA,Round of 16
+93,Congo DR,0.0008,2026-07-06,"Arlington, Texas",USA,Round of 16
+94,United States,0.7711,2026-07-07,"Seattle, Washington",USA,Round of 16
+94,South Korea,0.2776,2026-07-07,"Seattle, Washington",USA,Round of 16
+94,Bosnia-Herzegovina,0.2289,2026-07-07,"Seattle, Washington",USA,Round of 16
+94,Belgium,0.2043,2026-07-07,"Seattle, Washington",USA,Round of 16
+94,Egypt,0.2013,2026-07-07,"Seattle, Washington",USA,Round of 16
+94,Senegal,0.1204,2026-07-07,"Seattle, Washington",USA,Round of 16
+94,Iran,0.1049,2026-07-07,"Seattle, Washington",USA,Round of 16
+94,Algeria,0.0562,2026-07-07,"Seattle, Washington",USA,Round of 16
+94,Austria,0.0354,2026-07-07,"Seattle, Washington",USA,Round of 16
+95,Argentina,0.8427,2026-07-07,"Atlanta, Georgia",USA,Round of 16
+95,Australia,0.4479,2026-07-07,"Atlanta, Georgia",USA,Round of 16
+95,Belgium,0.3236,2026-07-07,"Atlanta, Georgia",USA,Round of 16
+95,Cape Verde,0.1573,2026-07-07,"Atlanta, Georgia",USA,Round of 16
+95,Iran,0.1091,2026-07-07,"Atlanta, Georgia",USA,Round of 16
+95,Egypt,0.1062,2026-07-07,"Atlanta, Georgia",USA,Round of 16
+95,New Zealand,0.0131,2026-07-07,"Atlanta, Georgia",USA,Round of 16
+96,Switzerland,0.5426,2026-07-07,Vancouver,Canada,Round of 16
+96,Colombia,0.4172,2026-07-07,Vancouver,Canada,Round of 16
+96,Portugal,0.2931,2026-07-07,Vancouver,Canada,Round of 16
+96,Ghana,0.1328,2026-07-07,Vancouver,Canada,Round of 16
+96,Egypt,0.131,2026-07-07,Vancouver,Canada,Round of 16
+96,Croatia,0.1189,2026-07-07,Vancouver,Canada,Round of 16
+96,Iran,0.1161,2026-07-07,Vancouver,Canada,Round of 16
+96,Senegal,0.0664,2026-07-07,Vancouver,Canada,Round of 16
+96,Algeria,0.0618,2026-07-07,Vancouver,Canada,Round of 16
+96,Belgium,0.0505,2026-07-07,Vancouver,Canada,Round of 16
+96,Austria,0.037,2026-07-07,Vancouver,Canada,Round of 16
+96,Ecuador,0.0229,2026-07-07,Vancouver,Canada,Round of 16
+96,New Zealand,0.0084,2026-07-07,Vancouver,Canada,Round of 16
+96,England,0.0013,2026-07-07,Vancouver,Canada,Round of 16
+97,France,0.5067,2026-07-09,"Foxborough, Massachusetts",USA,Quarter-final
+97,Netherlands,0.3914,2026-07-09,"Foxborough, Massachusetts",USA,Quarter-final
+97,Germany,0.3231,2026-07-09,"Foxborough, Massachusetts",USA,Quarter-final
+97,Morocco,0.2578,2026-07-09,"Foxborough, Massachusetts",USA,Quarter-final
+97,Canada,0.2114,2026-07-09,"Foxborough, Massachusetts",USA,Quarter-final
+97,South Africa,0.1395,2026-07-09,"Foxborough, Massachusetts",USA,Quarter-final
+97,Paraguay,0.0939,2026-07-09,"Foxborough, Massachusetts",USA,Quarter-final
+97,Sweden,0.0763,2026-07-09,"Foxborough, Massachusetts",USA,Quarter-final
+98,Spain,0.469,2026-07-10,"Inglewood, California",USA,Quarter-final
+98,United States,0.4166,2026-07-10,"Inglewood, California",USA,Quarter-final
+98,Portugal,0.1899,2026-07-10,"Inglewood, California",USA,Quarter-final
+98,Belgium,0.1402,2026-07-10,"Inglewood, California",USA,Quarter-final
+98,South Korea,0.1387,2026-07-10,"Inglewood, California",USA,Quarter-final
+98,Colombia,0.1073,2026-07-10,"Inglewood, California",USA,Quarter-final
+98,Egypt,0.0837,2026-07-10,"Inglewood, California",USA,Quarter-final
+98,Austria,0.0761,2026-07-10,"Inglewood, California",USA,Quarter-final
+98,England,0.07,2026-07-10,"Inglewood, California",USA,Quarter-final
+98,Senegal,0.0651,2026-07-10,"Inglewood, California",USA,Quarter-final
+98,Bosnia-Herzegovina,0.0638,2026-07-10,"Inglewood, California",USA,Quarter-final
+98,Croatia,0.0594,2026-07-10,"Inglewood, California",USA,Quarter-final
+98,Algeria,0.0573,2026-07-10,"Inglewood, California",USA,Quarter-final
+98,Iran,0.0501,2026-07-10,"Inglewood, California",USA,Quarter-final
+98,Ghana,0.0125,2026-07-10,"Inglewood, California",USA,Quarter-final
+98,Congo DR,0.0002,2026-07-10,"Inglewood, California",USA,Quarter-final
+99,Brazil,0.4415,2026-07-11,"Miami Gardens, Florida",USA,Quarter-final
+99,Mexico,0.3201,2026-07-11,"Miami Gardens, Florida",USA,Quarter-final
+99,England,0.3002,2026-07-11,"Miami Gardens, Florida",USA,Quarter-final
+99,Ecuador,0.2291,2026-07-11,"Miami Gardens, Florida",USA,Quarter-final
+99,Norway,0.2266,2026-07-11,"Miami Gardens, Florida",USA,Quarter-final
+99,Japan,0.1967,2026-07-11,"Miami Gardens, Florida",USA,Quarter-final
+99,Ivory Coast,0.1352,2026-07-11,"Miami Gardens, Florida",USA,Quarter-final
+99,Senegal,0.0862,2026-07-11,"Miami Gardens, Florida",USA,Quarter-final
+99,Croatia,0.0371,2026-07-11,"Miami Gardens, Florida",USA,Quarter-final
+99,Congo DR,0.0147,2026-07-11,"Miami Gardens, Florida",USA,Quarter-final
+99,Ghana,0.0047,2026-07-11,"Miami Gardens, Florida",USA,Quarter-final
+99,Scotland,0.0026,2026-07-11,"Miami Gardens, Florida",USA,Quarter-final
+99,Algeria,0.0025,2026-07-11,"Miami Gardens, Florida",USA,Quarter-final
+99,Austria,0.002,2026-07-11,"Miami Gardens, Florida",USA,Quarter-final
+99,Portugal,0.0005,2026-07-11,"Miami Gardens, Florida",USA,Quarter-final
+99,Uzbekistan,0.0002,2026-07-11,"Miami Gardens, Florida",USA,Quarter-final
+100,Argentina,0.6121,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,Colombia,0.2627,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,Switzerland,0.2271,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,Portugal,0.1927,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,Belgium,0.1606,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,Australia,0.1486,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,Iran,0.0811,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,Egypt,0.0737,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,Croatia,0.0628,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,Ghana,0.0437,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,Cape Verde,0.043,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,Senegal,0.0338,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,Algeria,0.0245,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,Austria,0.0149,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,Ecuador,0.0135,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,New Zealand,0.0043,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+100,England,0.0009,2026-07-12,"Kansas City, Missouri",USA,Quarter-final
+101,France,0.3598,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Spain,0.3371,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Germany,0.2017,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Netherlands,0.1738,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,United States,0.1553,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Portugal,0.1203,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Morocco,0.0954,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Canada,0.0663,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Colombia,0.064,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Belgium,0.0638,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,England,0.0482,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,South Korea,0.0469,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Paraguay,0.0401,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Austria,0.0322,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,South Africa,0.0315,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Sweden,0.0313,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Croatia,0.03,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Senegal,0.0251,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Egypt,0.0231,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Algeria,0.0215,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Iran,0.0164,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Bosnia-Herzegovina,0.0122,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Ghana,0.0037,2026-07-14,"Arlington, Texas",USA,Semi-final
+101,Congo DR,0.0,2026-07-14,"Arlington, Texas",USA,Semi-final
+102,Argentina,0.4259,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Brazil,0.2734,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,England,0.1715,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Mexico,0.1379,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Ecuador,0.1231,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Colombia,0.1155,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Norway,0.0985,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Portugal,0.098,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Japan,0.0952,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Belgium,0.0875,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Switzerland,0.0814,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Australia,0.0639,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Senegal,0.0504,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Ivory Coast,0.048,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Croatia,0.0383,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Iran,0.0296,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Egypt,0.0229,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Cape Verde,0.0107,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Ghana,0.0098,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Algeria,0.0082,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Austria,0.005,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Congo DR,0.0037,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,New Zealand,0.0009,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Scotland,0.0007,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+102,Uzbekistan,0.0,2026-07-15,"Atlanta, Georgia",USA,Semi-final
+103,Argentina,0.1618,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Spain,0.1558,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,France,0.116,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Brazil,0.1147,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Portugal,0.1119,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,United States,0.1011,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,England,0.0982,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Colombia,0.0963,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Germany,0.0831,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Mexico,0.0826,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Belgium,0.0819,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Netherlands,0.0767,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Ecuador,0.0625,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Norway,0.0565,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Japan,0.0531,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Switzerland,0.0507,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Morocco,0.0506,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Senegal,0.0462,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Croatia,0.0438,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Australia,0.0418,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Canada,0.0396,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Egypt,0.0334,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,South Korea,0.0327,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Ivory Coast,0.0314,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Iran,0.0304,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Austria,0.0264,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Paraguay,0.0249,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,South Africa,0.0216,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Algeria,0.0206,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Sweden,0.0199,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Ghana,0.0109,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Bosnia-Herzegovina,0.0102,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Cape Verde,0.0086,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Congo DR,0.0029,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,New Zealand,0.0007,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Scotland,0.0006,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+103,Uzbekistan,0.0,2026-07-18,"Miami Gardens, Florida",USA,Third place play-off
+104,Argentina,0.2641,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,France,0.2438,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Spain,0.1813,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Brazil,0.1587,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,England,0.1215,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Germany,0.1187,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Portugal,0.1065,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Netherlands,0.0971,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Colombia,0.0832,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Belgium,0.0694,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Ecuador,0.0607,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Mexico,0.0553,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,United States,0.0542,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Morocco,0.0448,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Japan,0.0421,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Norway,0.042,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Switzerland,0.0307,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Senegal,0.0294,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Canada,0.0267,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Croatia,0.0245,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Australia,0.022,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Ivory Coast,0.0165,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Iran,0.0156,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Paraguay,0.0152,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,South Korea,0.0142,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Egypt,0.0126,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Sweden,0.0114,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Austria,0.0108,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,South Africa,0.01,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Algeria,0.0091,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Ghana,0.0027,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Bosnia-Herzegovina,0.0021,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Cape Verde,0.0021,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Congo DR,0.0009,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,New Zealand,0.0002,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Scotland,0.0002,2026-07-19,"East Rutherford, New Jersey",USA,Final
+104,Uzbekistan,0.0,2026-07-19,"East Rutherford, New Jersey",USA,Final
